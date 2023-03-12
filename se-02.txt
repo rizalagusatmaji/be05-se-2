@@ -7,9 +7,10 @@ algoritma : makan roti panggang,
         2. Saya pergi ke ke dapur
         3. mengambil roti
         4. menyiapkan alat pemanggang
-        6. menyalakan alat pemanggang
-        5. memanggang roti
-        6. mematikan alat pemanggang
-        6. menyajikan roti di piring
-        6. memakan roti
-        7. Selesai
+        5. menyalakan alat pemanggang
+        6. memanggang roti
+        7. menunggu roti matang
+        8. mematikan alat pemanggang
+        9. menyajikan roti di piring
+        10. memakan roti
+        11. Selesai
