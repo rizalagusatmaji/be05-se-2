@@ -1,0 +1,15 @@
+nama : Rizal Agus Atmaji
+url profil github : https://github.com/rizalagusatmaji
+algoritma : makan roti panggang,
+            rotinya ada di dapur,
+            saya ada di kamar.
+        1. Mulai
+        2. Saya pergi ke ke dapur
+        3. mengambil roti
+        4. menyiapkan alat pemanggang
+        6. menyalakan alat pemanggang
+        5. memanggang roti
+        6. mematikan alat pemanggang
+        6. menyajikan roti di piring
+        6. memakan roti
+        7. Selesai
